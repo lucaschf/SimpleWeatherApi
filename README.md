@@ -1,1 +1,1 @@
-# SimpleWeatherApi
+# SimpleWeatherApiClient
