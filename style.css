@@ -1,0 +1,13 @@
+.btn-primary{
+	background-color: #8e24aa  !important;
+	border-color: #8e24aa !important;
+}
+
+.progress-bar{
+	background-color: #8e24aa !important;
+}
+
+.map{
+	width: 100%; 
+	height: 400px;
+}
