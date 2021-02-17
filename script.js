@@ -1,7 +1,7 @@
 var latitude;
 var longitude;
 
-let openweaterApiKey = "fadc9aa675f287098a5d0e09cc426eef";
+let openweaterApiKey = "YOUR_KEY_HERE";
 
 function fetchData() {
 
